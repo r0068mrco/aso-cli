@@ -1,0 +1,5 @@
+.history
+.idea
+aso_command_cli.egg-info/
+build/
+dist/
